@@ -5,7 +5,7 @@ I realised my github was empty and i have a lot of projects that i worked on dur
 
 I am fond of the developer side of **Computer Science.**
 
-Looking for any collaboration on mobile dev, front-end, back-end, full stack projects.
+Looking for any collaboration/ employment opportunities for front-end, back-end, or full stack projects.
 
 **Skills:**
 
@@ -13,11 +13,11 @@ Looking for any collaboration on mobile dev, front-end, back-end, full stack pro
 
 
 
-- 🔭 I’m currently working on Coursera Meta certification 
-- 🌱 I’m currently learning React Native, Flutter, and Figma 
-- 👯 I’m looking to collaborate on Mobile App develoment 
-- 🤔 I’m looking for help with Back-end mobile dev privacy  
-- 💬 Ask me about my CS degree 
+- 🔭 I’m currently working on deploying my two iOS mobile application.
+- 🌱 I’m currently learning Typesript, Angular and Next.js,React Native.
+- 👯 I’m looking to collaborate on Mobile App develoment, Xcode, flutter w figma. 
+- 🤔 I’m looking for help with Back-end mobile dev   
+- 💬 Ask me about my iOS mobile application (GuideMoi)
 - 📫 How to reach me: umyrolande@gmail.com 
 - ⚡ Fun fact: I know sign language 
 
