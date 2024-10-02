@@ -1,6 +1,6 @@
 # Welcome to my GitHub 🤖!
 
-My name is **Rolande** , I am currently pursuing a in Computer Science.*
+My name is **Rolande** , I am currently pursuing a Masters in Data Science.*
 I realised my github was empty and i have a lot of projects that i worked on during my undergrad.
 
 I am fond of the developer side of **Computer Science.**
