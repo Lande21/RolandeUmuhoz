@@ -12,8 +12,7 @@ Actively Lloking for internship opportunities for Data Analyst,or Database Analy
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,figma,aws,cs,c,bash,wordpress,python,swift,php,vue,saas,unity,vscode)](https://skillicons.dev)
 
 
-
-- 🔭 I’m currently working on deploying my two iOS mobile application.
+- 🔭 I’m currently looking for hackathons and to collaborate on projects.
 - 🌱 I’m currently learning Typesript, Angular and Next.js,React Native.
 - 👯 I’m looking to collaborate on Mobile App develoment, Xcode, flutter w figma. 
 - 🤔 I’m looking for help with Back-end mobile dev   
