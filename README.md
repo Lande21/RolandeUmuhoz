@@ -15,7 +15,7 @@ Actively Lloking for internship opportunities for Data Analyst,or Database Analy
 - 🔭 I’m currently looking for hackathons and to collaborate on projects.
 - 🌱 I’m currently learning Typesript, Angular and Next.js,React Native.
 - 👯 I’m looking for affordable conferences to attend possibly to sponsor me :)
-- 🤔 I’m looking for help with Back-end mobile dev   
+- 🤔 I’m working on a Research topic possibly a thesis   
 - 💬 Ask me about my iOS mobile application (GuideMoi)
 - 📫 How to reach me: umyrolande@gmail.com 
 - ⚡ Fun fact: I know sign language 
