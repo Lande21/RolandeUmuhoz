@@ -1,6 +1,6 @@
 # Welcome to my GitHub 🤖!
 
-My name is **Rolande** , I am currently pursuing a **Masters in Data Science.**
+My name is **Rolande Umuhoza** , I am currently pursuing a **Masters in Data Science.**
 
 I am fond of using frameworks to develop apps and using AI-ML models to mine large datasets.
 
