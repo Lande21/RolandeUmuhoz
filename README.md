@@ -4,7 +4,7 @@ My name is **Rolande** , I am currently pursuing a **Masters in Data Science.**
 
 I am fond of using frameworks to develop apps and using AI-ML models to mine large datasets.
 
-Looking for any collaboration/ employment opportunities for Data Analyst,or Database Analyst or ML/ Data Engineer for Summer 2025.
+Actively Lloking for an internship opportunities for Data Analyst,or Database Analyst or ML/ Data Engineer for Summer 2025.
 - [ Willing to Relocate in North America]
 
 **Skills:**
