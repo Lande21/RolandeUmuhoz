@@ -21,4 +21,4 @@ Actively Lloking for internship opportunities for Data Analyst,or Database Analy
 - ⚡ Fun fact: I know sign language(alphabets)
 
 ### [View Meta Front-end Capstone here](https://github.com/Lande21/Little_Lemon)
-### I am Pivoting to machine
+### I am Pivoting to machine language
