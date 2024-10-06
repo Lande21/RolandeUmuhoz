@@ -17,7 +17,7 @@ Actively Lloking for internship opportunities for Data Analyst,or Database Analy
 - 👯 I’m looking for affordable conferences to attend possibly to sponsor me :)
 - 🤔 I’m working on a Research topic possibly a thesis for grad school @ career wise 
 - 💬 Ask me about my iOS mobile application (GuideMoi) 
-- 📫 How to reach me: tech_ru@proton.me
+- 📫 How to reach me: tech_ru@proton.me email
 - ⚡ Fun fact: I know sign language(alphabets)
 
 ### [View Meta Front-end Capstone here](https://github.com/Lande21/Little_Lemon)
