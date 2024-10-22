@@ -12,10 +12,9 @@ Actively Lloking for internship opportunities for Data Analyst,or Database Analy
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,figma,aws,cs,c,bash,wordpress,python,swift,php,vue,saas,unity,vscode)](https://skillicons.dev)
 
 
-- 🔭 I’m currently looking for hackathons and to collaborate on projects.
-- 🌱 I’m currently learning Typesript, Angular and Next.js,React Native.
+- 🔭 I’m currently looking for hackathons, data science opportunities and to collaborate on projects.
 - 👯 I’m looking for affordable conferences to attend possibly to sponsor me :)
-- 🤔 I’m working on a Research topic possibly a thesis for grad school @ career wise 
+- 🤔 I’m working on a Research topic possibly a thesis for grad school @MSU.
 - 💬 Ask me about my iOS mobile application (GuideMoi) 
 - 📫 How to reach me: tech_ru@proton.me email
 - ⚡ Fun fact: I know sign language(alphabets)
