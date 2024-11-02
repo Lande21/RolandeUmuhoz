@@ -17,6 +17,5 @@ Actively Lloking for internship opportunities for Data Analyst,or Database Analy
 - 🤔 I’m in grad school @MSU.
 - 💬 Ask me about my iOS mobile application (GuideMoi) 
 - 📫 How to reach me: tech_ru@proton.me email
-- ⚡ Fun fact: I know 
 
 ### [View Meta Front-end Capstone here](https://github.com/Lande21/Little_Lemon)
