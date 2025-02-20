@@ -9,7 +9,7 @@ Actively Lloking for internship opportunities for Data Analyst,or Database Analy
 
 **Skills:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,figma,aws,cs,c,bash,wordpress,python,swift,php,vue,saas,unity,vscode,docker,hadoop,kafka,lisp,tableau)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,figma,aws,cs,c,bash,wordpress,python,swift,php,vue,saas,unity,vscode,docker,kafka,tableau)](https://skillicons.dev)
 
 
 - 🔭 I’m currently looking for hackathons, data science opportunities and to collaborate on projects.
