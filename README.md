@@ -2,7 +2,7 @@
 
 My name is **Rolande Umuhoza** , I am currently pursuing a **Masters in Data Science.**
 
-I am fond of using frameworks and using AI-ML models to mine large datasets in research.
+I like learning! i am fond of data analytics using ETL process to mine large datasets in providing insights.
 
 Actively Lloking for internship opportunities for Data Analyst,or Database Analyst or ML/ Data Engineer for Summer 2025.
 - [ Willing to Relocate in Person/ Hybrid to North America for Summer 2025]
